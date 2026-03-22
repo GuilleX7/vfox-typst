@@ -1,0 +1,1093 @@
+[
+  {
+    "tag_name": "v0.14.2",
+    "published_at": "2025-12-12T17:49:37Z",
+    "draft": false,
+    "prerelease": false,
+    "assets": [
+      {
+        "name": "typst-aarch64-apple-darwin.tar.xz",
+        "url": "https://github.com/typst/typst/releases/download/v0.14.2/typst-aarch64-apple-darwin.tar.xz",
+        "digest": "sha256:470aa49a2298d20b65c119a10e4ff8808550453e0cb4d85625b89caf0cedf048"
+      },
+      {
+        "name": "typst-aarch64-pc-windows-msvc.zip",
+        "url": "https://github.com/typst/typst/releases/download/v0.14.2/typst-aarch64-pc-windows-msvc.zip",
+        "digest": "sha256:1c4aaa0de000ab1787dda354c34f4fa1fe3c2525d3d038e692a3d7daa333d551"
+      },
+      {
+        "name": "typst-aarch64-unknown-linux-musl.tar.xz",
+        "url": "https://github.com/typst/typst/releases/download/v0.14.2/typst-aarch64-unknown-linux-musl.tar.xz",
+        "digest": "sha256:491b101aa40a3a7ea82a3f8a6232cabb4e6a7e233810082e5ac812d43fdcd47a"
+      },
+      {
+        "name": "typst-armv7-unknown-linux-musleabi.tar.xz",
+        "url": "https://github.com/typst/typst/releases/download/v0.14.2/typst-armv7-unknown-linux-musleabi.tar.xz",
+        "digest": "sha256:55bfbeadebc01c2116f1fea606dcd72fe30e1d8b02fbe61d5ed77d68c6ece298"
+      },
+      {
+        "name": "typst-riscv64gc-unknown-linux-gnu.tar.xz",
+        "url": "https://github.com/typst/typst/releases/download/v0.14.2/typst-riscv64gc-unknown-linux-gnu.tar.xz",
+        "digest": "sha256:cddd3afc14bde0e5966bf0e565a2f88c8b69bbb9a911e7473d4fa2949e5dbc15"
+      },
+      {
+        "name": "typst-x86_64-apple-darwin.tar.xz",
+        "url": "https://github.com/typst/typst/releases/download/v0.14.2/typst-x86_64-apple-darwin.tar.xz",
+        "digest": "sha256:4e91d8e1e33ab164f949c5762e01ee3faa585c8615a2a6bd5e3677fa8506b249"
+      },
+      {
+        "name": "typst-x86_64-pc-windows-msvc.zip",
+        "url": "https://github.com/typst/typst/releases/download/v0.14.2/typst-x86_64-pc-windows-msvc.zip",
+        "digest": "sha256:51353994ac83218c3497052e89b2c432c53b9d4439cdc1b361e2ea4798ebfc13"
+      },
+      {
+        "name": "typst-x86_64-unknown-linux-musl.tar.xz",
+        "url": "https://github.com/typst/typst/releases/download/v0.14.2/typst-x86_64-unknown-linux-musl.tar.xz",
+        "digest": "sha256:a6044cbad2a954deb921167e257e120ac0a16b20339ec01121194ff9d394996d"
+      }
+    ]
+  },
+  {
+    "tag_name": "v0.14.1",
+    "published_at": "2025-12-03T17:10:21Z",
+    "draft": false,
+    "prerelease": false,
+    "assets": [
+      {
+        "name": "typst-aarch64-apple-darwin.tar.xz",
+        "url": "https://github.com/typst/typst/releases/download/v0.14.1/typst-aarch64-apple-darwin.tar.xz",
+        "digest": "sha256:74a4fadf3fce24e3431739923b6f26eba29aa7333eb11c2ad976f4eb926d2492"
+      },
+      {
+        "name": "typst-aarch64-pc-windows-msvc.zip",
+        "url": "https://github.com/typst/typst/releases/download/v0.14.1/typst-aarch64-pc-windows-msvc.zip",
+        "digest": "sha256:c39cecc1094a8d06e3409bad88909a0ba043c9e5de1dfc9061234525d9af86c3"
+      },
+      {
+        "name": "typst-aarch64-unknown-linux-musl.tar.xz",
+        "url": "https://github.com/typst/typst/releases/download/v0.14.1/typst-aarch64-unknown-linux-musl.tar.xz",
+        "digest": "sha256:8da0a5978550ecf873c0d0c441e48a48eec351fac3b6f0c5460ca0547732a098"
+      },
+      {
+        "name": "typst-armv7-unknown-linux-musleabi.tar.xz",
+        "url": "https://github.com/typst/typst/releases/download/v0.14.1/typst-armv7-unknown-linux-musleabi.tar.xz",
+        "digest": "sha256:a26fbe8484ab035c0152bf7dcfc79f087e0f74be87ecfc1a2a8b12e89922af89"
+      },
+      {
+        "name": "typst-riscv64gc-unknown-linux-gnu.tar.xz",
+        "url": "https://github.com/typst/typst/releases/download/v0.14.1/typst-riscv64gc-unknown-linux-gnu.tar.xz",
+        "digest": "sha256:61dc739525cf67a7d801135a50428bb84ea69c1219b5ced0bb6ffb31bb748525"
+      },
+      {
+        "name": "typst-x86_64-apple-darwin.tar.xz",
+        "url": "https://github.com/typst/typst/releases/download/v0.14.1/typst-x86_64-apple-darwin.tar.xz",
+        "digest": "sha256:afadc7f39002104c932f454a9f0accfa594020e64d4b1a1fd9e4cfd119f7b43c"
+      },
+      {
+        "name": "typst-x86_64-pc-windows-msvc.zip",
+        "url": "https://github.com/typst/typst/releases/download/v0.14.1/typst-x86_64-pc-windows-msvc.zip",
+        "digest": "sha256:4e35ffaeb40067019bea5d26291cd3b71628659912d23ea3958dcc84c8545623"
+      },
+      {
+        "name": "typst-x86_64-unknown-linux-musl.tar.xz",
+        "url": "https://github.com/typst/typst/releases/download/v0.14.1/typst-x86_64-unknown-linux-musl.tar.xz",
+        "digest": "sha256:6ad7b794f71c781fec4a742fcdd105deac12b59e5e7a58db98ccae7f8408d141"
+      }
+    ]
+  },
+  {
+    "tag_name": "v0.14.0",
+    "published_at": "2025-10-24T12:27:35Z",
+    "draft": false,
+    "prerelease": false,
+    "assets": [
+      {
+        "name": "typst-aarch64-apple-darwin.tar.xz",
+        "url": "https://github.com/typst/typst/releases/download/v0.14.0/typst-aarch64-apple-darwin.tar.xz",
+        "digest": "sha256:a957bfbb657b9f272c2a99dc07fe4f28cceaf6d866db5dcd53cdbcc9ee168db9"
+      },
+      {
+        "name": "typst-aarch64-pc-windows-msvc.zip",
+        "url": "https://github.com/typst/typst/releases/download/v0.14.0/typst-aarch64-pc-windows-msvc.zip",
+        "digest": "sha256:906ecdd759c93196b7097eb725df91d99eb2ca56a6060f8d9877d73f443c2f19"
+      },
+      {
+        "name": "typst-aarch64-unknown-linux-musl.tar.xz",
+        "url": "https://github.com/typst/typst/releases/download/v0.14.0/typst-aarch64-unknown-linux-musl.tar.xz",
+        "digest": "sha256:3ad461772773256021ff38a0db3acf85f3ecdb00b93606a32f8c5ae043f6c62b"
+      },
+      {
+        "name": "typst-armv7-unknown-linux-musleabi.tar.xz",
+        "url": "https://github.com/typst/typst/releases/download/v0.14.0/typst-armv7-unknown-linux-musleabi.tar.xz",
+        "digest": "sha256:4ad165ac36e9f0319fd2032a3d1c910e45da1c463904d8228a886e29be52c5e9"
+      },
+      {
+        "name": "typst-riscv64gc-unknown-linux-gnu.tar.xz",
+        "url": "https://github.com/typst/typst/releases/download/v0.14.0/typst-riscv64gc-unknown-linux-gnu.tar.xz",
+        "digest": "sha256:76ad8daff75ac705f247f159f8e54c49831754aebc1204b14699aad9eac0bc54"
+      },
+      {
+        "name": "typst-x86_64-apple-darwin.tar.xz",
+        "url": "https://github.com/typst/typst/releases/download/v0.14.0/typst-x86_64-apple-darwin.tar.xz",
+        "digest": "sha256:97f1015fb786634b4c6f86f5947fab125253d4cc14089afa0d6d2e7eb2681f83"
+      },
+      {
+        "name": "typst-x86_64-pc-windows-msvc.zip",
+        "url": "https://github.com/typst/typst/releases/download/v0.14.0/typst-x86_64-pc-windows-msvc.zip",
+        "digest": "sha256:06d847b998be837565ef88d679a9da6acc022fdefa221703bc25a877e7511312"
+      },
+      {
+        "name": "typst-x86_64-unknown-linux-musl.tar.xz",
+        "url": "https://github.com/typst/typst/releases/download/v0.14.0/typst-x86_64-unknown-linux-musl.tar.xz",
+        "digest": "sha256:99816d2982de08d2b091bac56b59b2faa523a10e1378ad3cdd68e35b8eb74b3d"
+      }
+    ]
+  },
+  {
+    "tag_name": "v0.14.0-rc.2",
+    "published_at": "2025-10-17T16:54:42Z",
+    "draft": false,
+    "prerelease": true,
+    "assets": [
+      {
+        "name": "typst-aarch64-apple-darwin.tar.xz",
+        "url": "https://github.com/typst/typst/releases/download/v0.14.0-rc.2/typst-aarch64-apple-darwin.tar.xz",
+        "digest": "sha256:fd9a08bd507b9489f729bbc986a2d06163a0c4079ea87beac6ed691daceaf1b4"
+      },
+      {
+        "name": "typst-aarch64-pc-windows-msvc.zip",
+        "url": "https://github.com/typst/typst/releases/download/v0.14.0-rc.2/typst-aarch64-pc-windows-msvc.zip",
+        "digest": "sha256:ecb7ed881e7adf5194ee4e12cb1abe5b60ec53db8cd927bd075758c50a6d9516"
+      },
+      {
+        "name": "typst-aarch64-unknown-linux-musl.tar.xz",
+        "url": "https://github.com/typst/typst/releases/download/v0.14.0-rc.2/typst-aarch64-unknown-linux-musl.tar.xz",
+        "digest": "sha256:29bcaad267931f752b1e5b2cb08892eb80a6d3d172033e230f539e750baa1d3f"
+      },
+      {
+        "name": "typst-armv7-unknown-linux-musleabi.tar.xz",
+        "url": "https://github.com/typst/typst/releases/download/v0.14.0-rc.2/typst-armv7-unknown-linux-musleabi.tar.xz",
+        "digest": "sha256:3e21d910cdeacbf6ffcd31a38af5d937a69568261f234c053dc9f4915049d1b3"
+      },
+      {
+        "name": "typst-riscv64gc-unknown-linux-gnu.tar.xz",
+        "url": "https://github.com/typst/typst/releases/download/v0.14.0-rc.2/typst-riscv64gc-unknown-linux-gnu.tar.xz",
+        "digest": "sha256:e3cd4e402270edb60627a4c1a516bce9d2cea3bb7869007941b464091c86ac98"
+      },
+      {
+        "name": "typst-x86_64-apple-darwin.tar.xz",
+        "url": "https://github.com/typst/typst/releases/download/v0.14.0-rc.2/typst-x86_64-apple-darwin.tar.xz",
+        "digest": "sha256:8f207b6f7ef49bbae4fef4d238ee96f749dd0a6868e624f183e2b7a0e55e4f10"
+      },
+      {
+        "name": "typst-x86_64-pc-windows-msvc.zip",
+        "url": "https://github.com/typst/typst/releases/download/v0.14.0-rc.2/typst-x86_64-pc-windows-msvc.zip",
+        "digest": "sha256:068b8fbd2c2f1eeb4af1d65e2f33a90ea2c0c39a029d0ef96b79a85a2c7d8ef1"
+      },
+      {
+        "name": "typst-x86_64-unknown-linux-musl.tar.xz",
+        "url": "https://github.com/typst/typst/releases/download/v0.14.0-rc.2/typst-x86_64-unknown-linux-musl.tar.xz",
+        "digest": "sha256:922f32857130eb315beee57d6a35f3df244d4edaefc7b54fa3f700a3e4391f7f"
+      }
+    ]
+  },
+  {
+    "tag_name": "v0.14.0-rc.1",
+    "published_at": "2025-10-10T12:54:29Z",
+    "draft": false,
+    "prerelease": true,
+    "assets": [
+      {
+        "name": "typst-aarch64-apple-darwin.tar.xz",
+        "url": "https://github.com/typst/typst/releases/download/v0.14.0-rc.1/typst-aarch64-apple-darwin.tar.xz",
+        "digest": "sha256:423beda867e917f58c6df8edf966965efc28d82edf3904b877f21fa2c25210dd"
+      },
+      {
+        "name": "typst-aarch64-pc-windows-msvc.zip",
+        "url": "https://github.com/typst/typst/releases/download/v0.14.0-rc.1/typst-aarch64-pc-windows-msvc.zip",
+        "digest": "sha256:c459cf5db15e9e08d6d9e7e33e05eb83d802c614a7e43ee12e74474d19edfe01"
+      },
+      {
+        "name": "typst-aarch64-unknown-linux-musl.tar.xz",
+        "url": "https://github.com/typst/typst/releases/download/v0.14.0-rc.1/typst-aarch64-unknown-linux-musl.tar.xz",
+        "digest": "sha256:77463dbd878636f2fdfd77d6f76d27b8a6da2fc09960cb52cbd8e8f08b64d76e"
+      },
+      {
+        "name": "typst-armv7-unknown-linux-musleabi.tar.xz",
+        "url": "https://github.com/typst/typst/releases/download/v0.14.0-rc.1/typst-armv7-unknown-linux-musleabi.tar.xz",
+        "digest": "sha256:ed72c4429545ee939e1e850a8ce11f756793ab14ea914dbbfbd601b0c91f8329"
+      },
+      {
+        "name": "typst-riscv64gc-unknown-linux-gnu.tar.xz",
+        "url": "https://github.com/typst/typst/releases/download/v0.14.0-rc.1/typst-riscv64gc-unknown-linux-gnu.tar.xz",
+        "digest": "sha256:72a84c830f989e36411f15ab20f5e516e4ffb009fb874242ff15b0ee26b708cc"
+      },
+      {
+        "name": "typst-x86_64-apple-darwin.tar.xz",
+        "url": "https://github.com/typst/typst/releases/download/v0.14.0-rc.1/typst-x86_64-apple-darwin.tar.xz",
+        "digest": "sha256:ccf8a052567fa9cca438796f3262fe8cd9bfc8ab17ce3be0febddf6c6eb01438"
+      },
+      {
+        "name": "typst-x86_64-pc-windows-msvc.zip",
+        "url": "https://github.com/typst/typst/releases/download/v0.14.0-rc.1/typst-x86_64-pc-windows-msvc.zip",
+        "digest": "sha256:02b1707f72b257d446b15bd316b2abed43b6b5ff72362a3a3c041151a21bc808"
+      },
+      {
+        "name": "typst-x86_64-unknown-linux-musl.tar.xz",
+        "url": "https://github.com/typst/typst/releases/download/v0.14.0-rc.1/typst-x86_64-unknown-linux-musl.tar.xz",
+        "digest": "sha256:4e659425e8920d6ebb0917c34d581d16f7afa1b25bb73d1f8a77beb5707900f5"
+      }
+    ]
+  },
+  {
+    "tag_name": "v0.13.1",
+    "published_at": "2025-03-07T12:50:41Z",
+    "draft": false,
+    "prerelease": false,
+    "assets": [
+      {
+        "name": "typst-aarch64-apple-darwin.tar.xz",
+        "url": "https://github.com/typst/typst/releases/download/v0.13.1/typst-aarch64-apple-darwin.tar.xz",
+        "digest": null
+      },
+      {
+        "name": "typst-aarch64-pc-windows-msvc.zip",
+        "url": "https://github.com/typst/typst/releases/download/v0.13.1/typst-aarch64-pc-windows-msvc.zip",
+        "digest": null
+      },
+      {
+        "name": "typst-aarch64-unknown-linux-musl.tar.xz",
+        "url": "https://github.com/typst/typst/releases/download/v0.13.1/typst-aarch64-unknown-linux-musl.tar.xz",
+        "digest": null
+      },
+      {
+        "name": "typst-armv7-unknown-linux-musleabi.tar.xz",
+        "url": "https://github.com/typst/typst/releases/download/v0.13.1/typst-armv7-unknown-linux-musleabi.tar.xz",
+        "digest": null
+      },
+      {
+        "name": "typst-riscv64gc-unknown-linux-gnu.tar.xz",
+        "url": "https://github.com/typst/typst/releases/download/v0.13.1/typst-riscv64gc-unknown-linux-gnu.tar.xz",
+        "digest": null
+      },
+      {
+        "name": "typst-x86_64-apple-darwin.tar.xz",
+        "url": "https://github.com/typst/typst/releases/download/v0.13.1/typst-x86_64-apple-darwin.tar.xz",
+        "digest": null
+      },
+      {
+        "name": "typst-x86_64-pc-windows-msvc.zip",
+        "url": "https://github.com/typst/typst/releases/download/v0.13.1/typst-x86_64-pc-windows-msvc.zip",
+        "digest": null
+      },
+      {
+        "name": "typst-x86_64-unknown-linux-musl.tar.xz",
+        "url": "https://github.com/typst/typst/releases/download/v0.13.1/typst-x86_64-unknown-linux-musl.tar.xz",
+        "digest": null
+      }
+    ]
+  },
+  {
+    "tag_name": "v0.13.0",
+    "published_at": "2025-02-19T16:25:41Z",
+    "draft": false,
+    "prerelease": false,
+    "assets": [
+      {
+        "name": "typst-aarch64-apple-darwin.tar.xz",
+        "url": "https://github.com/typst/typst/releases/download/v0.13.0/typst-aarch64-apple-darwin.tar.xz",
+        "digest": null
+      },
+      {
+        "name": "typst-aarch64-pc-windows-msvc.zip",
+        "url": "https://github.com/typst/typst/releases/download/v0.13.0/typst-aarch64-pc-windows-msvc.zip",
+        "digest": null
+      },
+      {
+        "name": "typst-aarch64-unknown-linux-musl.tar.xz",
+        "url": "https://github.com/typst/typst/releases/download/v0.13.0/typst-aarch64-unknown-linux-musl.tar.xz",
+        "digest": null
+      },
+      {
+        "name": "typst-armv7-unknown-linux-musleabi.tar.xz",
+        "url": "https://github.com/typst/typst/releases/download/v0.13.0/typst-armv7-unknown-linux-musleabi.tar.xz",
+        "digest": null
+      },
+      {
+        "name": "typst-riscv64gc-unknown-linux-gnu.tar.xz",
+        "url": "https://github.com/typst/typst/releases/download/v0.13.0/typst-riscv64gc-unknown-linux-gnu.tar.xz",
+        "digest": null
+      },
+      {
+        "name": "typst-x86_64-apple-darwin.tar.xz",
+        "url": "https://github.com/typst/typst/releases/download/v0.13.0/typst-x86_64-apple-darwin.tar.xz",
+        "digest": null
+      },
+      {
+        "name": "typst-x86_64-pc-windows-msvc.zip",
+        "url": "https://github.com/typst/typst/releases/download/v0.13.0/typst-x86_64-pc-windows-msvc.zip",
+        "digest": null
+      },
+      {
+        "name": "typst-x86_64-unknown-linux-musl.tar.xz",
+        "url": "https://github.com/typst/typst/releases/download/v0.13.0/typst-x86_64-unknown-linux-musl.tar.xz",
+        "digest": null
+      }
+    ]
+  },
+  {
+    "tag_name": "v0.13.0-rc1",
+    "published_at": "2025-02-05T17:31:03Z",
+    "draft": false,
+    "prerelease": true,
+    "assets": [
+      {
+        "name": "typst-aarch64-apple-darwin.tar.xz",
+        "url": "https://github.com/typst/typst/releases/download/v0.13.0-rc1/typst-aarch64-apple-darwin.tar.xz",
+        "digest": null
+      },
+      {
+        "name": "typst-aarch64-pc-windows-msvc.zip",
+        "url": "https://github.com/typst/typst/releases/download/v0.13.0-rc1/typst-aarch64-pc-windows-msvc.zip",
+        "digest": null
+      },
+      {
+        "name": "typst-aarch64-unknown-linux-musl.tar.xz",
+        "url": "https://github.com/typst/typst/releases/download/v0.13.0-rc1/typst-aarch64-unknown-linux-musl.tar.xz",
+        "digest": null
+      },
+      {
+        "name": "typst-armv7-unknown-linux-musleabi.tar.xz",
+        "url": "https://github.com/typst/typst/releases/download/v0.13.0-rc1/typst-armv7-unknown-linux-musleabi.tar.xz",
+        "digest": null
+      },
+      {
+        "name": "typst-riscv64gc-unknown-linux-gnu.tar.xz",
+        "url": "https://github.com/typst/typst/releases/download/v0.13.0-rc1/typst-riscv64gc-unknown-linux-gnu.tar.xz",
+        "digest": null
+      },
+      {
+        "name": "typst-x86_64-apple-darwin.tar.xz",
+        "url": "https://github.com/typst/typst/releases/download/v0.13.0-rc1/typst-x86_64-apple-darwin.tar.xz",
+        "digest": null
+      },
+      {
+        "name": "typst-x86_64-pc-windows-msvc.zip",
+        "url": "https://github.com/typst/typst/releases/download/v0.13.0-rc1/typst-x86_64-pc-windows-msvc.zip",
+        "digest": null
+      },
+      {
+        "name": "typst-x86_64-unknown-linux-musl.tar.xz",
+        "url": "https://github.com/typst/typst/releases/download/v0.13.0-rc1/typst-x86_64-unknown-linux-musl.tar.xz",
+        "digest": null
+      }
+    ]
+  },
+  {
+    "tag_name": "v0.12.0",
+    "published_at": "2024-10-18T21:41:48Z",
+    "draft": false,
+    "prerelease": false,
+    "assets": [
+      {
+        "name": "typst-aarch64-apple-darwin.tar.xz",
+        "url": "https://github.com/typst/typst/releases/download/v0.12.0/typst-aarch64-apple-darwin.tar.xz",
+        "digest": null
+      },
+      {
+        "name": "typst-aarch64-pc-windows-msvc.zip",
+        "url": "https://github.com/typst/typst/releases/download/v0.12.0/typst-aarch64-pc-windows-msvc.zip",
+        "digest": null
+      },
+      {
+        "name": "typst-aarch64-unknown-linux-musl.tar.xz",
+        "url": "https://github.com/typst/typst/releases/download/v0.12.0/typst-aarch64-unknown-linux-musl.tar.xz",
+        "digest": null
+      },
+      {
+        "name": "typst-armv7-unknown-linux-musleabi.tar.xz",
+        "url": "https://github.com/typst/typst/releases/download/v0.12.0/typst-armv7-unknown-linux-musleabi.tar.xz",
+        "digest": null
+      },
+      {
+        "name": "typst-riscv64gc-unknown-linux-gnu.tar.xz",
+        "url": "https://github.com/typst/typst/releases/download/v0.12.0/typst-riscv64gc-unknown-linux-gnu.tar.xz",
+        "digest": null
+      },
+      {
+        "name": "typst-x86_64-apple-darwin.tar.xz",
+        "url": "https://github.com/typst/typst/releases/download/v0.12.0/typst-x86_64-apple-darwin.tar.xz",
+        "digest": null
+      },
+      {
+        "name": "typst-x86_64-pc-windows-msvc.zip",
+        "url": "https://github.com/typst/typst/releases/download/v0.12.0/typst-x86_64-pc-windows-msvc.zip",
+        "digest": null
+      },
+      {
+        "name": "typst-x86_64-unknown-linux-musl.tar.xz",
+        "url": "https://github.com/typst/typst/releases/download/v0.12.0/typst-x86_64-unknown-linux-musl.tar.xz",
+        "digest": null
+      }
+    ]
+  },
+  {
+    "tag_name": "v0.12.0-rc2",
+    "published_at": "2024-10-15T14:28:05Z",
+    "draft": false,
+    "prerelease": true,
+    "assets": [
+      {
+        "name": "typst-aarch64-apple-darwin.tar.xz",
+        "url": "https://github.com/typst/typst/releases/download/v0.12.0-rc2/typst-aarch64-apple-darwin.tar.xz",
+        "digest": null
+      },
+      {
+        "name": "typst-aarch64-pc-windows-msvc.zip",
+        "url": "https://github.com/typst/typst/releases/download/v0.12.0-rc2/typst-aarch64-pc-windows-msvc.zip",
+        "digest": null
+      },
+      {
+        "name": "typst-aarch64-unknown-linux-musl.tar.xz",
+        "url": "https://github.com/typst/typst/releases/download/v0.12.0-rc2/typst-aarch64-unknown-linux-musl.tar.xz",
+        "digest": null
+      },
+      {
+        "name": "typst-armv7-unknown-linux-musleabi.tar.xz",
+        "url": "https://github.com/typst/typst/releases/download/v0.12.0-rc2/typst-armv7-unknown-linux-musleabi.tar.xz",
+        "digest": null
+      },
+      {
+        "name": "typst-riscv64gc-unknown-linux-gnu.tar.xz",
+        "url": "https://github.com/typst/typst/releases/download/v0.12.0-rc2/typst-riscv64gc-unknown-linux-gnu.tar.xz",
+        "digest": null
+      },
+      {
+        "name": "typst-x86_64-apple-darwin.tar.xz",
+        "url": "https://github.com/typst/typst/releases/download/v0.12.0-rc2/typst-x86_64-apple-darwin.tar.xz",
+        "digest": null
+      },
+      {
+        "name": "typst-x86_64-pc-windows-msvc.zip",
+        "url": "https://github.com/typst/typst/releases/download/v0.12.0-rc2/typst-x86_64-pc-windows-msvc.zip",
+        "digest": null
+      },
+      {
+        "name": "typst-x86_64-unknown-linux-musl.tar.xz",
+        "url": "https://github.com/typst/typst/releases/download/v0.12.0-rc2/typst-x86_64-unknown-linux-musl.tar.xz",
+        "digest": null
+      }
+    ]
+  },
+  {
+    "tag_name": "v0.12.0-rc1",
+    "published_at": "2024-10-03T21:52:10Z",
+    "draft": false,
+    "prerelease": true,
+    "assets": [
+      {
+        "name": "typst-aarch64-apple-darwin.tar.xz",
+        "url": "https://github.com/typst/typst/releases/download/v0.12.0-rc1/typst-aarch64-apple-darwin.tar.xz",
+        "digest": null
+      },
+      {
+        "name": "typst-aarch64-pc-windows-msvc.zip",
+        "url": "https://github.com/typst/typst/releases/download/v0.12.0-rc1/typst-aarch64-pc-windows-msvc.zip",
+        "digest": null
+      },
+      {
+        "name": "typst-aarch64-unknown-linux-musl.tar.xz",
+        "url": "https://github.com/typst/typst/releases/download/v0.12.0-rc1/typst-aarch64-unknown-linux-musl.tar.xz",
+        "digest": null
+      },
+      {
+        "name": "typst-armv7-unknown-linux-musleabi.tar.xz",
+        "url": "https://github.com/typst/typst/releases/download/v0.12.0-rc1/typst-armv7-unknown-linux-musleabi.tar.xz",
+        "digest": null
+      },
+      {
+        "name": "typst-riscv64gc-unknown-linux-gnu.tar.xz",
+        "url": "https://github.com/typst/typst/releases/download/v0.12.0-rc1/typst-riscv64gc-unknown-linux-gnu.tar.xz",
+        "digest": null
+      },
+      {
+        "name": "typst-x86_64-apple-darwin.tar.xz",
+        "url": "https://github.com/typst/typst/releases/download/v0.12.0-rc1/typst-x86_64-apple-darwin.tar.xz",
+        "digest": null
+      },
+      {
+        "name": "typst-x86_64-pc-windows-msvc.zip",
+        "url": "https://github.com/typst/typst/releases/download/v0.12.0-rc1/typst-x86_64-pc-windows-msvc.zip",
+        "digest": null
+      },
+      {
+        "name": "typst-x86_64-unknown-linux-musl.tar.xz",
+        "url": "https://github.com/typst/typst/releases/download/v0.12.0-rc1/typst-x86_64-unknown-linux-musl.tar.xz",
+        "digest": null
+      }
+    ]
+  },
+  {
+    "tag_name": "v0.11.1",
+    "published_at": "2024-05-17T15:33:15Z",
+    "draft": false,
+    "prerelease": false,
+    "assets": [
+      {
+        "name": "typst-aarch64-apple-darwin.tar.xz",
+        "url": "https://github.com/typst/typst/releases/download/v0.11.1/typst-aarch64-apple-darwin.tar.xz",
+        "digest": null
+      },
+      {
+        "name": "typst-aarch64-unknown-linux-musl.tar.xz",
+        "url": "https://github.com/typst/typst/releases/download/v0.11.1/typst-aarch64-unknown-linux-musl.tar.xz",
+        "digest": null
+      },
+      {
+        "name": "typst-armv7-unknown-linux-musleabi.tar.xz",
+        "url": "https://github.com/typst/typst/releases/download/v0.11.1/typst-armv7-unknown-linux-musleabi.tar.xz",
+        "digest": null
+      },
+      {
+        "name": "typst-x86_64-apple-darwin.tar.xz",
+        "url": "https://github.com/typst/typst/releases/download/v0.11.1/typst-x86_64-apple-darwin.tar.xz",
+        "digest": null
+      },
+      {
+        "name": "typst-x86_64-pc-windows-msvc.zip",
+        "url": "https://github.com/typst/typst/releases/download/v0.11.1/typst-x86_64-pc-windows-msvc.zip",
+        "digest": null
+      },
+      {
+        "name": "typst-x86_64-unknown-linux-musl.tar.xz",
+        "url": "https://github.com/typst/typst/releases/download/v0.11.1/typst-x86_64-unknown-linux-musl.tar.xz",
+        "digest": null
+      }
+    ]
+  },
+  {
+    "tag_name": "v0.11.0",
+    "published_at": "2024-03-15T18:05:50Z",
+    "draft": false,
+    "prerelease": false,
+    "assets": [
+      {
+        "name": "typst-aarch64-apple-darwin.tar.xz",
+        "url": "https://github.com/typst/typst/releases/download/v0.11.0/typst-aarch64-apple-darwin.tar.xz",
+        "digest": null
+      },
+      {
+        "name": "typst-aarch64-unknown-linux-musl.tar.xz",
+        "url": "https://github.com/typst/typst/releases/download/v0.11.0/typst-aarch64-unknown-linux-musl.tar.xz",
+        "digest": null
+      },
+      {
+        "name": "typst-armv7-unknown-linux-musleabi.tar.xz",
+        "url": "https://github.com/typst/typst/releases/download/v0.11.0/typst-armv7-unknown-linux-musleabi.tar.xz",
+        "digest": null
+      },
+      {
+        "name": "typst-x86_64-apple-darwin.tar.xz",
+        "url": "https://github.com/typst/typst/releases/download/v0.11.0/typst-x86_64-apple-darwin.tar.xz",
+        "digest": null
+      },
+      {
+        "name": "typst-x86_64-pc-windows-msvc.zip",
+        "url": "https://github.com/typst/typst/releases/download/v0.11.0/typst-x86_64-pc-windows-msvc.zip",
+        "digest": null
+      },
+      {
+        "name": "typst-x86_64-unknown-linux-musl.tar.xz",
+        "url": "https://github.com/typst/typst/releases/download/v0.11.0/typst-x86_64-unknown-linux-musl.tar.xz",
+        "digest": null
+      }
+    ]
+  },
+  {
+    "tag_name": "v0.11.0-rc1",
+    "published_at": "2024-03-09T18:29:10Z",
+    "draft": false,
+    "prerelease": true,
+    "assets": [
+      {
+        "name": "typst-aarch64-apple-darwin.tar.xz",
+        "url": "https://github.com/typst/typst/releases/download/v0.11.0-rc1/typst-aarch64-apple-darwin.tar.xz",
+        "digest": null
+      },
+      {
+        "name": "typst-aarch64-unknown-linux-musl.tar.xz",
+        "url": "https://github.com/typst/typst/releases/download/v0.11.0-rc1/typst-aarch64-unknown-linux-musl.tar.xz",
+        "digest": null
+      },
+      {
+        "name": "typst-armv7-unknown-linux-musleabi.tar.xz",
+        "url": "https://github.com/typst/typst/releases/download/v0.11.0-rc1/typst-armv7-unknown-linux-musleabi.tar.xz",
+        "digest": null
+      },
+      {
+        "name": "typst-x86_64-apple-darwin.tar.xz",
+        "url": "https://github.com/typst/typst/releases/download/v0.11.0-rc1/typst-x86_64-apple-darwin.tar.xz",
+        "digest": null
+      },
+      {
+        "name": "typst-x86_64-pc-windows-msvc.zip",
+        "url": "https://github.com/typst/typst/releases/download/v0.11.0-rc1/typst-x86_64-pc-windows-msvc.zip",
+        "digest": null
+      },
+      {
+        "name": "typst-x86_64-unknown-linux-musl.tar.xz",
+        "url": "https://github.com/typst/typst/releases/download/v0.11.0-rc1/typst-x86_64-unknown-linux-musl.tar.xz",
+        "digest": null
+      }
+    ]
+  },
+  {
+    "tag_name": "v0.10.0",
+    "published_at": "2023-12-04T15:51:31Z",
+    "draft": false,
+    "prerelease": false,
+    "assets": [
+      {
+        "name": "typst-aarch64-apple-darwin.tar.xz",
+        "url": "https://github.com/typst/typst/releases/download/v0.10.0/typst-aarch64-apple-darwin.tar.xz",
+        "digest": null
+      },
+      {
+        "name": "typst-aarch64-unknown-linux-musl.tar.xz",
+        "url": "https://github.com/typst/typst/releases/download/v0.10.0/typst-aarch64-unknown-linux-musl.tar.xz",
+        "digest": null
+      },
+      {
+        "name": "typst-armv7-unknown-linux-musleabi.tar.xz",
+        "url": "https://github.com/typst/typst/releases/download/v0.10.0/typst-armv7-unknown-linux-musleabi.tar.xz",
+        "digest": null
+      },
+      {
+        "name": "typst-x86_64-apple-darwin.tar.xz",
+        "url": "https://github.com/typst/typst/releases/download/v0.10.0/typst-x86_64-apple-darwin.tar.xz",
+        "digest": null
+      },
+      {
+        "name": "typst-x86_64-pc-windows-msvc.zip",
+        "url": "https://github.com/typst/typst/releases/download/v0.10.0/typst-x86_64-pc-windows-msvc.zip",
+        "digest": null
+      },
+      {
+        "name": "typst-x86_64-unknown-linux-musl.tar.xz",
+        "url": "https://github.com/typst/typst/releases/download/v0.10.0/typst-x86_64-unknown-linux-musl.tar.xz",
+        "digest": null
+      }
+    ]
+  },
+  {
+    "tag_name": "v0.9.0",
+    "published_at": "2023-10-31T01:32:16Z",
+    "draft": false,
+    "prerelease": false,
+    "assets": [
+      {
+        "name": "typst-aarch64-apple-darwin.tar.xz",
+        "url": "https://github.com/typst/typst/releases/download/v0.9.0/typst-aarch64-apple-darwin.tar.xz",
+        "digest": null
+      },
+      {
+        "name": "typst-aarch64-unknown-linux-musl.tar.xz",
+        "url": "https://github.com/typst/typst/releases/download/v0.9.0/typst-aarch64-unknown-linux-musl.tar.xz",
+        "digest": null
+      },
+      {
+        "name": "typst-armv7-unknown-linux-musleabi.tar.xz",
+        "url": "https://github.com/typst/typst/releases/download/v0.9.0/typst-armv7-unknown-linux-musleabi.tar.xz",
+        "digest": null
+      },
+      {
+        "name": "typst-x86_64-apple-darwin.tar.xz",
+        "url": "https://github.com/typst/typst/releases/download/v0.9.0/typst-x86_64-apple-darwin.tar.xz",
+        "digest": null
+      },
+      {
+        "name": "typst-x86_64-pc-windows-msvc.zip",
+        "url": "https://github.com/typst/typst/releases/download/v0.9.0/typst-x86_64-pc-windows-msvc.zip",
+        "digest": null
+      },
+      {
+        "name": "typst-x86_64-unknown-linux-musl.tar.xz",
+        "url": "https://github.com/typst/typst/releases/download/v0.9.0/typst-x86_64-unknown-linux-musl.tar.xz",
+        "digest": null
+      }
+    ]
+  },
+  {
+    "tag_name": "v0.8.0",
+    "published_at": "2023-09-13T15:45:00Z",
+    "draft": false,
+    "prerelease": false,
+    "assets": [
+      {
+        "name": "typst-aarch64-apple-darwin.tar.xz",
+        "url": "https://github.com/typst/typst/releases/download/v0.8.0/typst-aarch64-apple-darwin.tar.xz",
+        "digest": null
+      },
+      {
+        "name": "typst-aarch64-unknown-linux-musl.tar.xz",
+        "url": "https://github.com/typst/typst/releases/download/v0.8.0/typst-aarch64-unknown-linux-musl.tar.xz",
+        "digest": null
+      },
+      {
+        "name": "typst-armv7-unknown-linux-musleabi.tar.xz",
+        "url": "https://github.com/typst/typst/releases/download/v0.8.0/typst-armv7-unknown-linux-musleabi.tar.xz",
+        "digest": null
+      },
+      {
+        "name": "typst-x86_64-apple-darwin.tar.xz",
+        "url": "https://github.com/typst/typst/releases/download/v0.8.0/typst-x86_64-apple-darwin.tar.xz",
+        "digest": null
+      },
+      {
+        "name": "typst-x86_64-pc-windows-msvc.zip",
+        "url": "https://github.com/typst/typst/releases/download/v0.8.0/typst-x86_64-pc-windows-msvc.zip",
+        "digest": null
+      },
+      {
+        "name": "typst-x86_64-unknown-linux-musl.tar.xz",
+        "url": "https://github.com/typst/typst/releases/download/v0.8.0/typst-x86_64-unknown-linux-musl.tar.xz",
+        "digest": null
+      }
+    ]
+  },
+  {
+    "tag_name": "v0.7.0",
+    "published_at": "2023-08-07T16:20:37Z",
+    "draft": false,
+    "prerelease": false,
+    "assets": [
+      {
+        "name": "typst-aarch64-apple-darwin.tar.xz",
+        "url": "https://github.com/typst/typst/releases/download/v0.7.0/typst-aarch64-apple-darwin.tar.xz",
+        "digest": null
+      },
+      {
+        "name": "typst-aarch64-unknown-linux-musl.tar.xz",
+        "url": "https://github.com/typst/typst/releases/download/v0.7.0/typst-aarch64-unknown-linux-musl.tar.xz",
+        "digest": null
+      },
+      {
+        "name": "typst-armv7-unknown-linux-musleabi.tar.xz",
+        "url": "https://github.com/typst/typst/releases/download/v0.7.0/typst-armv7-unknown-linux-musleabi.tar.xz",
+        "digest": null
+      },
+      {
+        "name": "typst-x86_64-apple-darwin.tar.xz",
+        "url": "https://github.com/typst/typst/releases/download/v0.7.0/typst-x86_64-apple-darwin.tar.xz",
+        "digest": null
+      },
+      {
+        "name": "typst-x86_64-pc-windows-msvc.zip",
+        "url": "https://github.com/typst/typst/releases/download/v0.7.0/typst-x86_64-pc-windows-msvc.zip",
+        "digest": null
+      },
+      {
+        "name": "typst-x86_64-unknown-linux-musl.tar.xz",
+        "url": "https://github.com/typst/typst/releases/download/v0.7.0/typst-x86_64-unknown-linux-musl.tar.xz",
+        "digest": null
+      }
+    ]
+  },
+  {
+    "tag_name": "v0.6.0",
+    "published_at": "2023-06-30T15:04:25Z",
+    "draft": false,
+    "prerelease": false,
+    "assets": [
+      {
+        "name": "typst-aarch64-apple-darwin.tar.xz",
+        "url": "https://github.com/typst/typst/releases/download/v0.6.0/typst-aarch64-apple-darwin.tar.xz",
+        "digest": null
+      },
+      {
+        "name": "typst-aarch64-unknown-linux-musl.tar.xz",
+        "url": "https://github.com/typst/typst/releases/download/v0.6.0/typst-aarch64-unknown-linux-musl.tar.xz",
+        "digest": null
+      },
+      {
+        "name": "typst-armv7-unknown-linux-musleabi.tar.xz",
+        "url": "https://github.com/typst/typst/releases/download/v0.6.0/typst-armv7-unknown-linux-musleabi.tar.xz",
+        "digest": null
+      },
+      {
+        "name": "typst-x86_64-apple-darwin.tar.xz",
+        "url": "https://github.com/typst/typst/releases/download/v0.6.0/typst-x86_64-apple-darwin.tar.xz",
+        "digest": null
+      },
+      {
+        "name": "typst-x86_64-pc-windows-msvc.zip",
+        "url": "https://github.com/typst/typst/releases/download/v0.6.0/typst-x86_64-pc-windows-msvc.zip",
+        "digest": null
+      },
+      {
+        "name": "typst-x86_64-unknown-linux-musl.tar.xz",
+        "url": "https://github.com/typst/typst/releases/download/v0.6.0/typst-x86_64-unknown-linux-musl.tar.xz",
+        "digest": null
+      }
+    ]
+  },
+  {
+    "tag_name": "v0.5.0",
+    "published_at": "2023-06-09T14:55:29Z",
+    "draft": false,
+    "prerelease": false,
+    "assets": [
+      {
+        "name": "typst-aarch64-apple-darwin.tar.xz",
+        "url": "https://github.com/typst/typst/releases/download/v0.5.0/typst-aarch64-apple-darwin.tar.xz",
+        "digest": null
+      },
+      {
+        "name": "typst-aarch64-pc-windows-msvc.zip",
+        "url": "https://github.com/typst/typst/releases/download/v0.5.0/typst-aarch64-pc-windows-msvc.zip",
+        "digest": null
+      },
+      {
+        "name": "typst-aarch64-unknown-linux-musl.tar.xz",
+        "url": "https://github.com/typst/typst/releases/download/v0.5.0/typst-aarch64-unknown-linux-musl.tar.xz",
+        "digest": null
+      },
+      {
+        "name": "typst-armv7-unknown-linux-musleabi.tar.xz",
+        "url": "https://github.com/typst/typst/releases/download/v0.5.0/typst-armv7-unknown-linux-musleabi.tar.xz",
+        "digest": null
+      },
+      {
+        "name": "typst-riscv64gc-unknown-linux-gnu.tar.xz",
+        "url": "https://github.com/typst/typst/releases/download/v0.5.0/typst-riscv64gc-unknown-linux-gnu.tar.xz",
+        "digest": null
+      },
+      {
+        "name": "typst-x86_64-apple-darwin.tar.xz",
+        "url": "https://github.com/typst/typst/releases/download/v0.5.0/typst-x86_64-apple-darwin.tar.xz",
+        "digest": null
+      },
+      {
+        "name": "typst-x86_64-pc-windows-msvc.zip",
+        "url": "https://github.com/typst/typst/releases/download/v0.5.0/typst-x86_64-pc-windows-msvc.zip",
+        "digest": null
+      },
+      {
+        "name": "typst-x86_64-unknown-linux-musl.tar.xz",
+        "url": "https://github.com/typst/typst/releases/download/v0.5.0/typst-x86_64-unknown-linux-musl.tar.xz",
+        "digest": null
+      }
+    ]
+  },
+  {
+    "tag_name": "v0.4.0",
+    "published_at": "2023-05-20T20:40:20Z",
+    "draft": false,
+    "prerelease": false,
+    "assets": [
+      {
+        "name": "typst-aarch64-apple-darwin.tar.xz",
+        "url": "https://github.com/typst/typst/releases/download/v0.4.0/typst-aarch64-apple-darwin.tar.xz",
+        "digest": null
+      },
+      {
+        "name": "typst-aarch64-pc-windows-msvc.zip",
+        "url": "https://github.com/typst/typst/releases/download/v0.4.0/typst-aarch64-pc-windows-msvc.zip",
+        "digest": null
+      },
+      {
+        "name": "typst-aarch64-unknown-linux-musl.tar.xz",
+        "url": "https://github.com/typst/typst/releases/download/v0.4.0/typst-aarch64-unknown-linux-musl.tar.xz",
+        "digest": null
+      },
+      {
+        "name": "typst-armv7-unknown-linux-musleabi.tar.xz",
+        "url": "https://github.com/typst/typst/releases/download/v0.4.0/typst-armv7-unknown-linux-musleabi.tar.xz",
+        "digest": null
+      },
+      {
+        "name": "typst-riscv64gc-unknown-linux-gnu.tar.xz",
+        "url": "https://github.com/typst/typst/releases/download/v0.4.0/typst-riscv64gc-unknown-linux-gnu.tar.xz",
+        "digest": null
+      },
+      {
+        "name": "typst-x86_64-apple-darwin.tar.xz",
+        "url": "https://github.com/typst/typst/releases/download/v0.4.0/typst-x86_64-apple-darwin.tar.xz",
+        "digest": null
+      },
+      {
+        "name": "typst-x86_64-pc-windows-msvc.zip",
+        "url": "https://github.com/typst/typst/releases/download/v0.4.0/typst-x86_64-pc-windows-msvc.zip",
+        "digest": null
+      },
+      {
+        "name": "typst-x86_64-unknown-linux-musl.tar.xz",
+        "url": "https://github.com/typst/typst/releases/download/v0.4.0/typst-x86_64-unknown-linux-musl.tar.xz",
+        "digest": null
+      }
+    ]
+  },
+  {
+    "tag_name": "v0.3.0",
+    "published_at": "2023-04-26T14:20:47Z",
+    "draft": false,
+    "prerelease": false,
+    "assets": [
+      {
+        "name": "typst-aarch64-apple-darwin.tar.xz",
+        "url": "https://github.com/typst/typst/releases/download/v0.3.0/typst-aarch64-apple-darwin.tar.xz",
+        "digest": null
+      },
+      {
+        "name": "typst-aarch64-pc-windows-msvc.zip",
+        "url": "https://github.com/typst/typst/releases/download/v0.3.0/typst-aarch64-pc-windows-msvc.zip",
+        "digest": null
+      },
+      {
+        "name": "typst-aarch64-unknown-linux-musl.tar.xz",
+        "url": "https://github.com/typst/typst/releases/download/v0.3.0/typst-aarch64-unknown-linux-musl.tar.xz",
+        "digest": null
+      },
+      {
+        "name": "typst-armv7-unknown-linux-musleabi.tar.xz",
+        "url": "https://github.com/typst/typst/releases/download/v0.3.0/typst-armv7-unknown-linux-musleabi.tar.xz",
+        "digest": null
+      },
+      {
+        "name": "typst-riscv64gc-unknown-linux-gnu.tar.xz",
+        "url": "https://github.com/typst/typst/releases/download/v0.3.0/typst-riscv64gc-unknown-linux-gnu.tar.xz",
+        "digest": null
+      },
+      {
+        "name": "typst-x86_64-apple-darwin.tar.xz",
+        "url": "https://github.com/typst/typst/releases/download/v0.3.0/typst-x86_64-apple-darwin.tar.xz",
+        "digest": null
+      },
+      {
+        "name": "typst-x86_64-pc-windows-msvc.zip",
+        "url": "https://github.com/typst/typst/releases/download/v0.3.0/typst-x86_64-pc-windows-msvc.zip",
+        "digest": null
+      },
+      {
+        "name": "typst-x86_64-unknown-linux-musl.tar.xz",
+        "url": "https://github.com/typst/typst/releases/download/v0.3.0/typst-x86_64-unknown-linux-musl.tar.xz",
+        "digest": null
+      }
+    ]
+  },
+  {
+    "tag_name": "v0.2.0",
+    "published_at": "2023-04-11T20:39:55Z",
+    "draft": false,
+    "prerelease": false,
+    "assets": [
+      {
+        "name": "typst-x86_64-apple-darwin.tar.gz",
+        "url": "https://github.com/typst/typst/releases/download/v0.2.0/typst-x86_64-apple-darwin.tar.gz",
+        "digest": null
+      },
+      {
+        "name": "typst-x86_64-pc-windows-msvc.zip",
+        "url": "https://github.com/typst/typst/releases/download/v0.2.0/typst-x86_64-pc-windows-msvc.zip",
+        "digest": null
+      },
+      {
+        "name": "typst-x86_64-unknown-linux-gnu.tar.gz",
+        "url": "https://github.com/typst/typst/releases/download/v0.2.0/typst-x86_64-unknown-linux-gnu.tar.gz",
+        "digest": null
+      }
+    ]
+  },
+  {
+    "tag_name": "v0.1.0",
+    "published_at": "2023-04-04T23:46:28Z",
+    "draft": false,
+    "prerelease": false,
+    "assets": [
+      {
+        "name": "typst-x86_64-apple-darwin.tar.gz",
+        "url": "https://github.com/typst/typst/releases/download/v0.1.0/typst-x86_64-apple-darwin.tar.gz",
+        "digest": null
+      },
+      {
+        "name": "typst-x86_64-pc-windows-msvc.zip",
+        "url": "https://github.com/typst/typst/releases/download/v0.1.0/typst-x86_64-pc-windows-msvc.zip",
+        "digest": null
+      },
+      {
+        "name": "typst-x86_64-unknown-linux-gnu.tar.gz",
+        "url": "https://github.com/typst/typst/releases/download/v0.1.0/typst-x86_64-unknown-linux-gnu.tar.gz",
+        "digest": null
+      }
+    ]
+  },
+  {
+    "tag_name": "v23-03-28",
+    "published_at": "2023-03-28T07:46:54Z",
+    "draft": false,
+    "prerelease": true,
+    "assets": [
+      {
+        "name": "typst-x86_64-apple-darwin.tar.gz",
+        "url": "https://github.com/typst/typst/releases/download/v23-03-28/typst-x86_64-apple-darwin.tar.gz",
+        "digest": null
+      },
+      {
+        "name": "typst-x86_64-pc-windows-msvc.zip",
+        "url": "https://github.com/typst/typst/releases/download/v23-03-28/typst-x86_64-pc-windows-msvc.zip",
+        "digest": null
+      },
+      {
+        "name": "typst-x86_64-unknown-linux-gnu.tar.gz",
+        "url": "https://github.com/typst/typst/releases/download/v23-03-28/typst-x86_64-unknown-linux-gnu.tar.gz",
+        "digest": null
+      }
+    ]
+  },
+  {
+    "tag_name": "v23-03-21-2",
+    "published_at": "2023-03-21T22:21:52Z",
+    "draft": false,
+    "prerelease": true,
+    "assets": [
+      {
+        "name": "typst-x86_64-apple-darwin.tar.gz",
+        "url": "https://github.com/typst/typst/releases/download/v23-03-21-2/typst-x86_64-apple-darwin.tar.gz",
+        "digest": null
+      },
+      {
+        "name": "typst-x86_64-pc-windows-msvc.zip",
+        "url": "https://github.com/typst/typst/releases/download/v23-03-21-2/typst-x86_64-pc-windows-msvc.zip",
+        "digest": null
+      },
+      {
+        "name": "typst-x86_64-unknown-linux-gnu.tar.gz",
+        "url": "https://github.com/typst/typst/releases/download/v23-03-21-2/typst-x86_64-unknown-linux-gnu.tar.gz",
+        "digest": null
+      }
+    ]
+  },
+  {
+    "tag_name": "v23-03-21",
+    "published_at": "2023-03-21T17:23:21Z",
+    "draft": false,
+    "prerelease": true,
+    "assets": [
+      {
+        "name": "typst-x86_64-apple-darwin.tar.gz",
+        "url": "https://github.com/typst/typst/releases/download/v23-03-21/typst-x86_64-apple-darwin.tar.gz",
+        "digest": null
+      },
+      {
+        "name": "typst-x86_64-pc-windows-msvc.zip",
+        "url": "https://github.com/typst/typst/releases/download/v23-03-21/typst-x86_64-pc-windows-msvc.zip",
+        "digest": null
+      },
+      {
+        "name": "typst-x86_64-unknown-linux-gnu.tar.gz",
+        "url": "https://github.com/typst/typst/releases/download/v23-03-21/typst-x86_64-unknown-linux-gnu.tar.gz",
+        "digest": null
+      }
+    ]
+  }
+]

@@ -1,0 +1,1 @@
+TYPST_RELEASES_URL = "https://raw.githubusercontent.com/GuilleX7/vfox-typst/refs/heads/main/public/releases.json"
