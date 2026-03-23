@@ -44,3 +44,4 @@ jobs:
         with:
           version: ${{ env.VERSION }}
           github-token: ${{ secrets.GITHUB_TOKEN }}
+          exclude-files: '*.git* manifest.json public* scripts* .available.cache .github*'
