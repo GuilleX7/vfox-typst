@@ -2,7 +2,7 @@ name: Sync Typst Releases
 
 on:
   schedule:
-    - cron: '25 */4 * * *'
+    - cron: '25 */12 * * *'
   workflow_dispatch:
 
 permissions:
