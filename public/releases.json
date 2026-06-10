@@ -1,5 +1,58 @@
 [
   {
+    "tag_name": "v0.15.0-rc.1",
+    "published_at": "2026-06-09T17:56:55Z",
+    "draft": false,
+    "prerelease": true,
+    "assets": [
+      {
+        "name": "typst-aarch64-apple-darwin.tar.xz",
+        "url": "https://github.com/typst/typst/releases/download/v0.15.0-rc.1/typst-aarch64-apple-darwin.tar.xz",
+        "digest": "sha256:013e4ea589b3b13492ca3dc974c09b4181ed425ecbd78ad7ea88f6572fb79fa8"
+      },
+      {
+        "name": "typst-aarch64-pc-windows-msvc.zip",
+        "url": "https://github.com/typst/typst/releases/download/v0.15.0-rc.1/typst-aarch64-pc-windows-msvc.zip",
+        "digest": "sha256:0ccdab1105b88c1995d6b81708729ac51beec8e1f115dad7e3588a136c02ddf9"
+      },
+      {
+        "name": "typst-aarch64-unknown-linux-musl.tar.xz",
+        "url": "https://github.com/typst/typst/releases/download/v0.15.0-rc.1/typst-aarch64-unknown-linux-musl.tar.xz",
+        "digest": "sha256:30f213b4f6e46ca5c5ad62ee671af22ad3c5ab2e001211e21b10914b1ffaf406"
+      },
+      {
+        "name": "typst-armv7-unknown-linux-musleabi.tar.xz",
+        "url": "https://github.com/typst/typst/releases/download/v0.15.0-rc.1/typst-armv7-unknown-linux-musleabi.tar.xz",
+        "digest": "sha256:86723fb946a5635ae0a2c52e196db53bd7767f052bae6c1c7269e35dc7c0e80a"
+      },
+      {
+        "name": "typst-documentation.pdf",
+        "url": "https://github.com/typst/typst/releases/download/v0.15.0-rc.1/typst-documentation.pdf",
+        "digest": "sha256:b51c1fc2c74145cc869cedf6b0399245b5768ae51eda811fae87dcfc33b39751"
+      },
+      {
+        "name": "typst-riscv64gc-unknown-linux-gnu.tar.xz",
+        "url": "https://github.com/typst/typst/releases/download/v0.15.0-rc.1/typst-riscv64gc-unknown-linux-gnu.tar.xz",
+        "digest": "sha256:51608f48a4c776640c5b5c12d240f6d84d807fb9c1e4806f75facae82e0d1019"
+      },
+      {
+        "name": "typst-x86_64-apple-darwin.tar.xz",
+        "url": "https://github.com/typst/typst/releases/download/v0.15.0-rc.1/typst-x86_64-apple-darwin.tar.xz",
+        "digest": "sha256:9ca64c65363f0ed3ccc53c9a8787ded6ef5096666589112de0817b9826cd2da2"
+      },
+      {
+        "name": "typst-x86_64-pc-windows-msvc.zip",
+        "url": "https://github.com/typst/typst/releases/download/v0.15.0-rc.1/typst-x86_64-pc-windows-msvc.zip",
+        "digest": "sha256:e0bac23ebd5429a84799795d284ada87071853bb1720b14e1f1aefe34423fab0"
+      },
+      {
+        "name": "typst-x86_64-unknown-linux-musl.tar.xz",
+        "url": "https://github.com/typst/typst/releases/download/v0.15.0-rc.1/typst-x86_64-unknown-linux-musl.tar.xz",
+        "digest": "sha256:3e18c08449b45873e02d24e59ec9cd116ce4d15eeb53e279497dbff408d75cea"
+      }
+    ]
+  },
+  {
     "tag_name": "v0.14.2",
     "published_at": "2025-12-12T17:49:37Z",
     "draft": false,
